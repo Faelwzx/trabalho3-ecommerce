@@ -17,7 +17,7 @@ Abaixo uma lista de recursos que não adicionei ainda e que você pode me ajudar
 - Métodos de pagamento (MercadoPago, PayPal, PagSeguro, enfim...)
 
 ### TODOs
-Abaixo uma lista do que adicionei ou ainda pretendo adicionar.
+Abaixo uma lista do que foi adicionado ou ainda pretendo adicionar.
 
 - [x] Model produtos
 - [x] Model variações
