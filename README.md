@@ -16,7 +16,7 @@ Abaixo uma lista de recursos que não adicionei ainda e que você pode me ajudar
 - Cálculo de frete
 - Métodos de pagamento (MercadoPago, PayPal, PagSeguro, enfim...)
 
-### TODOs
+### TODOS
 Abaixo uma lista do que foi adicionado ou ainda pretendo adicionar.
 
 - [x] Model produtos
@@ -71,4 +71,9 @@ python manage.py migrate
 ```
 
 Pronto!
+
+
+![.](1.png)
+![.](2.png)
+![.](3.png)
 
