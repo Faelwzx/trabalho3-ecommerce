@@ -73,7 +73,7 @@ python manage.py migrate
 Pronto!
 
 
-![.](1.png)
-![.](2.png)
-![.](3.png)
+![.](lula.png)
+![.](pedra.png)
+![.](agua.png)
 
