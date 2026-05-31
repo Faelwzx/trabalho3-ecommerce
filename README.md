@@ -33,6 +33,14 @@ Abaixo uma lista do que foi adicionado ou ainda pretendo adicionar.
 - [x] Registrar pedido do cliente
 - [x] Página de pagamento
 
+### Print Das Interfarces
+![.](image1.png)
+![.](image2.png)
+![.](image3.png)
+
+
+
+
 ### Tutorial para iniciantes
 Abaixo uma lista de comandos para clonar e configurar este projeto na sua 
 máquina local:
